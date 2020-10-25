@@ -2,21 +2,21 @@
 
 ## Features
 
- - auto detect image files
- - auto watermark size adjustment
- - auto watermark color adjustment ( dark / light )
- - easy to use
+ - Auto detect image files
+ - Auto watermark size adjustment
+ - Auto watermark color adjustment ( dark / light )
+ - Easy to use
 
 ## How To Use
 
-put the `tool.py` in the image folder
+Put the `tool.py` in the image folder
 or copy images into the `tool.py`'s folder, then
 
 ```
 python tool.py
 ```
 
-results will be stored in `out` folder
+Results will be stored in `out` folder.
 
 ## Configuration
 
@@ -27,7 +27,13 @@ watermark_size = 1.2 # size
 ```
 ## Example
 
-you can see the examples images in example folder
+![img](https://raw.githubusercontent.com/thebestwj/watermark_tool/main/example/out/1.jpg)
+
+![img](https://raw.githubusercontent.com/thebestwj/watermark_tool/main/example/out/2.jpg)
+
+![img](https://raw.githubusercontent.com/thebestwj/watermark_tool/main/example/out/3.jpg)
+
+You can also see the example images in example folder.
 
 ## Star the tool
 
