@@ -1,5 +1,10 @@
 # A Simple Watermark Tool
 
+![GitHub top language](https://img.shields.io/github/languages/top/thebestwj/watermark_tool?style=plastic)
+![GitHub file size in bytes](https://img.shields.io/github/size/thebestwj/watermark_tool/tool.py)
+![GitHub](https://img.shields.io/github/license/thebestwj/watermark_tool)
+![GitHub last commit](https://img.shields.io/github/last-commit/thebestwj/watermark_tool)
+
 ## Features
 
  - Auto detect image files
